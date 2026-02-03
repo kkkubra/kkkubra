@@ -1,3 +1,3 @@
--👋🏻Hi,im Kübra
--👩🏼‍💻Bilkent CS student
--📞how to reach me??? koshaticekubra@gmail.com
+- 👋🏻Hi,im Kübra
+- 👩🏼‍💻Bilkent CS student
+- 📞how to reach me??? koshaticekubra@gmail.com
